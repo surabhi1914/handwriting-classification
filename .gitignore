@@ -1,0 +1,21 @@
+# Virtual Environments
+.venv/
+venv/
+
+
+# My  notes
+notes.txt
+
+# Python cache
+__pycache__.py
+
+
+# Datasets
+data/
+data/raw/
+data/processed/
+data/outputs
+
+
+# Environment variables
+.env
